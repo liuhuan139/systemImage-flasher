@@ -1,0 +1,3 @@
+/home/ts/AI-workspace/Flasher/build/CMakeFiles/flasher.dir
+/home/ts/AI-workspace/Flasher/build/CMakeFiles/edit_cache.dir
+/home/ts/AI-workspace/Flasher/build/CMakeFiles/rebuild_cache.dir
